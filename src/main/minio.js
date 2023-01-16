@@ -3522,7 +3522,7 @@ export class Client {
     })
   }
   enableVirtualStyleEndpoint() {
-    this.pathStyle = false;
+    this.pathStyle = false
   }
 
   get extensions() {
